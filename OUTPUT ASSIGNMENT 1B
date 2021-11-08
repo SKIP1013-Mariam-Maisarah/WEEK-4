@@ -1,0 +1,17 @@
+Enter the number of item: 
+3
+Enter price of first item: 
+10.00
+Enter quantity of first item: 
+10
+Enter price of second item: 
+10.00
+Enter quantity of second item: 
+10
+Enter price of third item: 
+10.00
+Enter quantity of third item: 
+10
+Total price is: 300.0
+Discount received: 60.0
+Price to be paid: 240.0
